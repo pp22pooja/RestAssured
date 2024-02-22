@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"FavQs","c":"listQuots","l":"fuunyQuotes()"},{"p":"FavQs","c":"listQuots","l":"hiddenQuotes()"},{"p":"FavQs","c":"listQuots","l":"listQuots()","u":"%3Cinit%3E()"},{"p":"FavQs","c":"listQuots","l":"markTwainQuotes()"}];updateSearchResults();
