@@ -14,5 +14,5 @@
 
 Token issue:
 
-1. I tried generating the token with user session but couldn't do it. for the same i took help of Online API tool and POSTMAN but there I am getting "Access denied" error.
+1. I tried generating the token with user session but couldn't do it. for the same i took help of Online API tool and POSTMAN but there I am getting "Access denied" error. There might be some trick, but i'll love to know the feecback an dthe solution for the same.
 2. Because of that i could only check one functionality .
